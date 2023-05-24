@@ -7,8 +7,7 @@ public class Spectator {
         this.nume = nume;
     }
 
-    public String getNume() {
-        return nume;
-    }
-
+//    public String getNume() {
+//        return nume;
+//    }
 }

@@ -32,6 +32,7 @@ public class Banca implements iBanca{
 
     }
 
+
     public void adaugaTipClient(){
         notifica(numeBanca+ "Am adaugat un nou tip de credit, daca doriti sa il accesari ne puteti contacta!");
     }
